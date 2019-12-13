@@ -1,3 +1,3 @@
 # ArduinoEx
 ***
-### Arduino examples - personal projects
+### Arduino examples
