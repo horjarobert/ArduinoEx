@@ -10,7 +10,7 @@
 ### Purpose
 ***
 - Use structs;   
-- "Have at least one Arduino projects per day :)";    
+- "Have at least one Arduino projects per week :)";    
 - Improve my programming skills.   
 ***
 ### How it works?
