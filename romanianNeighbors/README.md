@@ -15,5 +15,5 @@
 ***
 ### How it works?
 ***
-- If you already copied the code and have the circuit ready, now you can play with the potentiometer; open the Serial Monitor (use 9600 baud), and after each 5s, it will apear the current value of the potentiometer together with its equivalent neighbor of Romanian...
+- If you already copied the code and have the circuit ready, now you can play with the potentiometer; open the Serial Monitor (use 9600 baud), and after each 5s, it will apear the current value of the potentiometer together with its equivalent neighbor of Romania...
 - The project is not very well designed, but the purpose has been achieved.   
